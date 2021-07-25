@@ -1,1 +1,2 @@
 One function of an operating sytem is managing files. This function can be used in numerous ways. You can create a file and save it to a specific location on the computer. It also saves changes you make, opens, closes, renames and deletes files.
+Device management is another function of an operating system. It installs software so you are able to use different devices when connected to the computer. It also makes sure that everyone is working properly together. Without this function you wouldn't be able to connect and use a keyboard or mouse. 
